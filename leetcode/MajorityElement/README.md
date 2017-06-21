@@ -1,4 +1,4 @@
-#Problem
+# Problem
 Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
 
 You may assume that the array is non-empty and the majority element always exist in the array.
@@ -8,7 +8,7 @@ Special thanks to @ts for adding this problem and creating all test cases.
 
 Subscribe to see which companies asked this question
 
-#Solution
+# Solution
 > 利用相邻主元素和非主元素配对的方法:
 主元素计数为0.
 假定第一个元素为主元素,计数为1;
